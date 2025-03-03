@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Create Whit Code\\CreateWhitCode II\\Prototype_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3235A-1609-3E86-7E6F-F9C12C9AC945}|Assembly-CSharp.csproj|c:\\create whit code\\createwhitcode ii\\prototype_4\\assets\\scripts\\camera rotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3235A-1609-3E86-7E6F-F9C12C9AC945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera rotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Camera Rotation.cs",
+              "DocumentMoniker": "C:\\Create Whit Code\\CreateWhitCode II\\Prototype_4\\Assets\\Scripts\\Camera Rotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera Rotation.cs",
+              "ToolTip": "C:\\Create Whit Code\\CreateWhitCode II\\Prototype_4\\Assets\\Scripts\\Camera Rotation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera Rotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:32:18.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
